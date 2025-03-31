@@ -7,7 +7,7 @@ PM me on reddit at u/ok-penalty-218 or visit my website below:
 https://ok-penalty-218.dev
 ## 😄 Projects: Ubuntu-Bakup && Nftables Setup
 Install my backup project via npm.
-
+'''bash
 sudo npm install @ok-penalty-218/bakup
-
+'''
 ### ⚡ Fun fact: I have no idea what I'm doing 90% of the time.
